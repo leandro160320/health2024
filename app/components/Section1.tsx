@@ -1,7 +1,7 @@
 
 export default function Section1(){
     return(
-        <div className="text-center py-12">
+        <div className="text-center py-12 mx-2">
             <h1 className="text-3xl font-bold">Our Special service</h1>
             <h1>Beyond simply providing medical care, 
                 our commitment lies in delivering unparalleled service 

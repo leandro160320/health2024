@@ -1,7 +1,7 @@
 
 export default function Section2(){
     return(
-        <div className="grid justify-items-center text-center py-12">
+        <div className="grid justify-items-center text-center py-12 mx-2">
             <img className="py-8" src="/img/div.about__image.png" alt="" />
             <h1 className="text-3xl font-bold">Abaut Us</h1>
             
