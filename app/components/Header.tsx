@@ -9,11 +9,7 @@ export default function Header(){
             <div>
                 <h1 className=" text-5xl mt-16">Providing an Exceptional Patient Experience</h1>
                 <h1>
-                Welcome, where exceptional patient experiences are 
-                our priority. With compassionate care, state-of-the-art
-                facilities, and a patient-centered approach, we're
-                dedicated to your well-being. Trust us with your health
-                and experience the difference.
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi ipsa consectetur magnam architecto unde aliquam neque atque doloremque numquam, inventore at minus sapiente facere rem deserunt autem cumque quidem omnis.
                 </h1>
                 <button className="bg-[#FB923C] rounded px-6 py-2 my-4">Contact Us</button>
             </div>
