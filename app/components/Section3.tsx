@@ -7,19 +7,19 @@ export default function Section3(){
              <h1>We take pride in our exceptional team of doctors, each a specialist in their respective fields.</h1>         
             </div>
 
-            <div className="grid lg:grid-cols-3 gap-4"> 
-            <div>
+            <div className="grid lg:grid-cols-3 gap-4 "> 
+            <div className="shadow-xl rounded-md">
             <img className="py-8" src="/img/doctor-1.jpg.png" alt="" />
             <h1 className="font-bold text-lg">Dr. Emily Smith</h1>
             <h1>Cardiologist</h1>
             </div>
 
-            <div>
+            <div className="shadow-xl rounded-md">
             <img className="py-8" src="/img/doctor-2.jpg.png" alt="" />
             <h1 className="font-bold text-lg">Dr. James Anderson</h1>
             <h1>Neurosurgeon</h1>  
             </div>
-            <div>
+            <div className="shadow-xl rounded-md">
             <img className="py-8" src="/img/doctor-3.jpg.png" alt="" />
             <h1 className="font-bold text-lg">Dr. Michael Lee</h1>
             <h1>Dermatologist</h1> 
