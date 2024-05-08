@@ -2,9 +2,9 @@
 export default function Header(){
     return(
         <div className="bg-[#12AC8EE5] pt-4 text-white px-3 pb-12">
-            <div className="grid grid-cols-2 ">
+            <div className="flex justify-between ">
                 <h1 className="text-xl font-bold">Health<span className="text-[#FB923C]">Care</span></h1>
-                <button className="bg-[#FB923C] rounded px-4 py-2 text-xs size-40">Contact Us</button>
+                <button className="bg-[#FB923C] rounded px-2 py-2 text-xs">Contact Us</button>
             </div>
             <div>
                 <h1 className=" text-5xl mt-16">Providing an Exceptional Patient Experience</h1>
