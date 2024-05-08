@@ -9,7 +9,10 @@ export default function Section1(){
 
             <div className="grid lg:grid-cols-3">
             <div className="grid mt-12 justify-items-center shadow-xl rounded-md">
-            <img className="py-8" src="/img/i.ri-microscope-line.png" alt="" />
+                <div className="bg-[#E9F7F7] rounded-full px-8 ">
+                <img className="py-8" src="/img/i.ri-microscope-line.png" alt="" />
+                </div>
+            
             <h1 className="text-xl font-bold">Laboratory Test</h1>
             <h1>Accurate Diagnostics, Swift Results: Experience
             top-notch Laboratory Testing at our facility.
@@ -18,7 +21,10 @@ export default function Section1(){
             </div>
 
             <div className="grid mt-12 justify-items-center shadow-xl rounded-md">
-            <img className="py-8" src="/img/Icon.png" alt="" />
+                <div className="bg-[#E9F7F7] rounded-full px-8 ">
+                 <img className="py-8" src="/img/Icon.png" alt="" />
+                </div>
+            
             <h1 className="text-xl font-bold">Health Check</h1>
             <h1>Accurate Diagnostics, Swift Results: Experience
             top-notch Laboratory Testing at our facility.
@@ -27,7 +33,11 @@ export default function Section1(){
             </div>
 
             <div className="grid mt-12 justify-items-center shadow-xl rounded-md">
-            <img className="py-8" src="/img/i.ri-hospital-line.png" alt="" />
+
+                <div className="bg-[#E9F7F7] rounded-full px-8 ">
+                <img className="py-8" src="/img/i.ri-hospital-line.png" alt="" />
+                </div>
+            
             <h1 className="text-xl font-bold">General Dentistry</h1>
             <h1>Accurate Diagnostics, Swift Results: Experience
             top-notch Laboratory Testing at our facility.
